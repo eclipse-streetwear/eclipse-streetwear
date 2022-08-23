@@ -1040,7 +1040,7 @@ a {
   top: 0;
 }
 .cid-tfeUR35lIR .mbr-section-title {
-  color: #f6f92e;
+  color: #fff0b0;
   text-align: right;
 }
 .cid-tfeWximKBl {
@@ -1091,7 +1091,7 @@ a {
 }
 .cid-tfeWximKBl .item-title {
   text-align: center;
-  color: #f6f92e;
+  color: #fff0b0;
 }
 .cid-tfeWximKBl .item-subtitle {
   text-align: left;
@@ -1112,6 +1112,20 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-tffwPa1lLi .bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-tffwPa1lLi .bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-tffwPa1lLi .bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-tffwPa1lLi .bg-twitter:hover {
+  background: #0c85d0;
 }
 .cid-tffwPa1lLi .bg-instagram {
   background: #f00075;
@@ -1139,11 +1153,20 @@ a {
 .cid-tffwPa1lLi .social-list {
   color: #bbbbbb;
 }
-.cid-tfeXy8w86b {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
+.cid-tfkqC6KQh6 {
+  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
+}
+.cid-tfkqC6KQh6 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tfkqC6KQh6 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-tffFi3OHOt {
   padding-top: 6rem;
@@ -1172,13 +1195,13 @@ a {
 .cid-tffFi3OHOt .mbr-section-subtitle {
   color: #bbbbbb;
 }
-.cid-tffJaPzRZC {
-  background-color: #000000;
+.cid-tfkqfXDagx {
+  background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
 }
-.cid-tffJaPzRZC .mbr-fallback-image.disabled {
+.cid-tfkqfXDagx .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tffJaPzRZC .mbr-fallback-image {
+.cid-tfkqfXDagx .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1186,9 +1209,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-}
-.cid-tffJaPzRZC .mbr-section-subtitle {
-  text-align: left;
 }
 .cid-tffGX5RrbE {
   padding-top: 5rem;
