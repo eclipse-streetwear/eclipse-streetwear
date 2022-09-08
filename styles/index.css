@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+.welcome-page {
+    display: block;
+    margin-top: 101px;
+    height: 100%;
+    width: 100%;
+    justify-items: center;
+}
+
+.welcome-page-container {
+    position: relative;
+}
+
+.welcome-image {
+    height: 100%;
+    width: 100%;
+}
+
+.welcome-text {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 450px;
+    margin-left: 60px;
+    width: 745px;
+    font-family: Lobster, Arial;
+    font-size: 150px;
+    color: bisque;
+}

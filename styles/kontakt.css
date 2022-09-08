@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+.soon-container {
+    display: flex;
+    justify-content: center;
+}
+
+.soon {
+    color: wheat;
+    font-family: Arial;
+    font-size: 60px;
+}
